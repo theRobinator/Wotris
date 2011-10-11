@@ -1,0 +1,15 @@
+Wotris!
+=======
+
+This was my very first game. It's a Tetris clone with a twist: the option to
+make the game harder by adding an additional random block to every piece. Such a
+simple change actually makes the game extremely hard; I've only ever seen
+somebody get up to 31 lines.
+
+This code demonstrates how to do many things in Java: for example, it creates a
+GUI through raw code, without using any libraries or building applications. It
+also demonstrates how to load music into your application and mess with it.
+
+Unfortunately, the code also demonstrates how not to use a settings file for the
+pieces, and how to share variables across threads. It wasn't my proudest moment,
+but for a first game ever it was pretty good.
